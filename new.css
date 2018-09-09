@@ -1,0 +1,14 @@
+.menu{
+  width: 20%;
+  position: absolute;
+}
+table td {
+    text-align: left;
+}
+.table td, .table th {
+    padding: .5rem;
+}
+
+.panel-default{
+  padding-top: 1rem;
+}
